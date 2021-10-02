@@ -1,0 +1,24 @@
+{
+    "name": "ngatngay/php-web-scraper",
+    "type": "application",
+    "description": "A simple PHP Web Scraper base",
+    "keywords": ["scraper"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "PMTpro",
+            "email": "pmt.coder@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.0",
+        "symfony/browser-kit": "*",
+        "symfony/css-selector": "*",
+        "symfony/dom-crawler": "*",
+        "symfony/http-client": "*",
+        "symfony/mime": "*"
+    },
+    "require-dev": {
+        "symfony/phpunit-bridge": "*"
+    }
+}
