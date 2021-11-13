@@ -2,6 +2,7 @@
     "name": "ngatngay/php-web-scraper",
     "type": "application",
     "description": "A simple PHP Web Scraper base",
+    "minimum-stability": "dev",
     "keywords": ["scraper"],
     "license": "MIT",
     "authors": [
