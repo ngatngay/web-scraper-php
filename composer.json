@@ -1,5 +1,5 @@
 {
-    "name": "ngatngay/php-web-scraper",
+    "name": "ngatngay/web-scraper-php",
     "type": "application",
     "description": "A simple PHP Web Scraper base",
     "minimum-stability": "dev",
